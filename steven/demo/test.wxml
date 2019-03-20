@@ -1,0 +1,4 @@
+<navigator url="/pages/index/index">
+  <!-- <button>跳转</button> -->
+  <image src="../../assets/dwaa.png" mode="cover"></image>
+</navigator>
